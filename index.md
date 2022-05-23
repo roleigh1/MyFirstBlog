@@ -26,7 +26,7 @@
     <h1>Hello and welcome to my journey. How i learn web development.</h1>
     
         <h3 >I'm Robin and i wanna learn to code like a real developer.
-            If u are interested to mentoring me on my way than feel free to <strong>contact</strong> me.</h3>
+            If u are interested to mentoring me on my way than feel free to <a>contact</a> me.</h3>
             <div class="skills">
             <h1>What skills i wanna learn ?</h1>
         
