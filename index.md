@@ -1,6 +1,7 @@
 
 <!DOCTYPE html>
 <html lang="en">
+    
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,12 +12,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anek+Bangla&family=Montserrat:ital,wght@1,100&display=swap" rel="stylesheet"> 
 </head>
+    
 <body>
 <div class="menu">
     <nav>
         <ul class="nav menu">
-            <li class="home"><a href="/" >HOME</a></li>
-            <li class="about"><a href="/index.php/item2" >ABOUT ME</a></li>
+            
+            <li ><a href="/" >HOME</a></li>
+            <li><a href="/index.php/item2" >ABOUT ME</a></li>
  
             </ul>
             
